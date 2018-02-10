@@ -1,2 +1,3 @@
 Hello newbies! Git workshop!!
+This is a new feature
 
